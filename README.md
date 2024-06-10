@@ -1,4 +1,4 @@
-# pong 
+# pong.js
 '1  '//variaveis da bolinha
 let XBolinha = 100;
 let YBolinha = 200;
